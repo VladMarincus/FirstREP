@@ -1,0 +1,1 @@
+prop = ['a', 'ok', 3, False, 3]
